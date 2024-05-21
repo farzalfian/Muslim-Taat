@@ -14,7 +14,7 @@ const Footer = () => {
           >
             {config.site.name}
           </Link>{" "}
-          Web by Farza Alfiansyah.
+          Web by Luneta.
         </span>
         <a
           rel="noopener noreferrer"
